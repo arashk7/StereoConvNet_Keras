@@ -1,5 +1,10 @@
 # StereoConvNet_Keras
 Implementation of StereoConvNet in Keras
+This method is suggested by Louis Foucard. You can reach the original version <a href="https://github.com/LouisFoucard/StereoConvNet">here</a>
+
+Dataset:
+
+https://github.com/LouisFoucard/DepthMap_dataset
 
 Input stereo images:
 
