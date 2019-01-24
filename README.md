@@ -7,11 +7,11 @@ Input stereo images:
 
 Ground truth:
 
-<img src="images/gt.png" alt="gt" class="inline" />
+<img src="images/gt.png" alt="gt" class="inline" width="320" height="238" />
 
 Here are the result after 1000 epochs:
 
-<img src="images/predicted.png" alt="predicted" class="inline" />
+<img src="images/predicted.png" alt="predicted" class="inline" width="320" height="238"/>
 
 
 
