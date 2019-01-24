@@ -11,7 +11,7 @@ Ground truth:
 
 Here are the result after 1000 epochs:
 
-<img src="images/predicted.png" alt="predicted" class="inline" width="320" height="238"/>
+<img src="images/predicted.png" alt="predicted" class="inline" width="320" height="238" />
 
 
 
