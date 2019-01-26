@@ -15,7 +15,7 @@ Ground truth:
 
 <img src="images/gt.png" alt="gt" class="inline" width="320" height="238" />
 
-Here is the prediction after 1000 epochs:
+Here is the prediction of disparity-map after 1000 epochs:
 
 <img src="images/predicted.png" alt="predicted" class="inline" width="320" height="238" />
 
